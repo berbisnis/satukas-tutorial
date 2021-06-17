@@ -1,5 +1,5 @@
 # Tutorial 
-Berbisnis merupakan aplikasi Penjualan Kasir & Pencatatan Keuangan.
+SatuKas merupakan aplikasi Penjualan Kasir & Pencatatan Keuangan.
 
 ## Fitur 
 - Kasir
@@ -19,9 +19,9 @@ Berbisnis merupakan aplikasi Penjualan Kasir & Pencatatan Keuangan.
 - Mode Offline
 
 ## Informasi BiCoin
-Berbisnis menggunakan **BiCoin** sebagai sarana bayar *UTAMA* agar dapat terus digunakan. 
+SatuKas menggunakan **BiCoin** sebagai sarana bayar *UTAMA* agar dapat terus digunakan. 
 
-Tiap data yang tersimpan dalam aplikasi berbisnis akan mengurangi saldo **BiCoin**.
+Tiap data yang tersimpan dalam aplikasi SatuKas akan mengurangi saldo **BiCoin**.
 
 Biaya dari Berbisnis dengan **BiCoin** adalah sebagai berikut
 
